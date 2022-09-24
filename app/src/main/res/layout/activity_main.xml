@@ -51,17 +51,6 @@
     </androidx.recyclerview.widget.RecyclerView>
 
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/Gtotal"
-        android:text="Total: "
-        android:textSize="25dp"
-        android:textStyle="bold"
-        android:layout_margin="20dp"
-        android:layout_alignParentBottom="true"
-        />
-
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/fabAdd"
         android:layout_width="wrap_content"
